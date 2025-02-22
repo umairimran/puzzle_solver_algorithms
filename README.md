@@ -1,12 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-Here’s the README with emojis added and converted into proper Markdown format:
-
-markdown
-Copy
 Edit
 # Puzzle Solver: 8-Puzzle Problem Solver 🧩
 
@@ -103,17 +95,6 @@ Time Taken: The total time taken by the algorithm to find the solution.
 Nodes Visited: The number of nodes explored during the search process.
 Contribution 🤝:
 Feel free to fork and submit pull requests. For major changes or features, please open an issue first to discuss it.
-
-License 📜:
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-css
-Copy
-Edit
-
-This should look nice and structured in a README file with emojis to make it more visually appealing!
-
-
 
 
 
