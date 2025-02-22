@@ -1,5 +1,4 @@
 
-Edit
 # Puzzle Solver: 8-Puzzle Problem Solver 🧩
 
 This repository contains a Python implementation of various search algorithms (BFS, DFS, UCS, IDS) to solve the 8-puzzle problem. The goal of the 8-puzzle problem is to arrange the tiles of a 3x3 grid in a specific goal state starting from an initial configuration using valid moves.
