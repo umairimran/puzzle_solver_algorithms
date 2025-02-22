@@ -1,4 +1,13 @@
 
+# Project Title
+
+A brief description of what this project does and who it's for
+
+Here’s the README with emojis added and converted into proper Markdown format:
+
+markdown
+Copy
+Edit
 # Puzzle Solver: 8-Puzzle Problem Solver 🧩
 
 This repository contains a Python implementation of various search algorithms (BFS, DFS, UCS, IDS) to solve the 8-puzzle problem. The goal of the 8-puzzle problem is to arrange the tiles of a 3x3 grid in a specific goal state starting from an initial configuration using valid moves.
@@ -98,3 +107,24 @@ Feel free to fork and submit pull requests. For major changes or features, pleas
 License 📜:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+css
+Copy
+Edit
+
+This should look nice and structured in a README file with emojis to make it more visually appealing!
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+Reason
+
+ChatGPT 
